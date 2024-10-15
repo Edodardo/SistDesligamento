@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Diagnostics;//biblioteca para diagnóstico de sistema
+
 namespace WindowsFormsApp2
 {
     public partial class Form1 : Form
